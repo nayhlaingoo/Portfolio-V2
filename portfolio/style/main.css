@@ -173,6 +173,13 @@ header ul {
   #hero {
     margin-top: 2.5rem;
   }
+  #hero .title {
+    margin: auto;
+    text-align: center;
+  }
+  #hero mark {
+    display: none;
+  }
   #hero .hero_image {
     height: 600px;
   }

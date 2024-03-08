@@ -91,6 +91,15 @@
   #hero {
     margin-top: 2.5rem;
 
+    .title {
+      margin: auto;
+      text-align: center;
+    }
+    
+    mark {
+      display: none;
+    }
+
     .hero_image {
       height: 600px;
     }
